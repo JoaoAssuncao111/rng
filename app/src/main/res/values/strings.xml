@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RNG</string>
+    <string name="numberMissing">Please maximum and minimum numbers</string>
+    <string name="invalidInput">Please input numbers only</string>
+</resources>
